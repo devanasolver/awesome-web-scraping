@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "CRAWL",
+  "SELECTOR",
+  "XPATH",
+  "PROXY",
+  "HEADLESS",
+  "PARSE",
+  "ROBOTS",
+  "RATE",
+  "SESSION",
+  "DOM",
+  "EXTRACT",
+  "SPIDER",
+  "JSON",
+  "COOKIE",
+  "DEDUPE",
+  "SITEMAP"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Web Scraping and Data ",
+  "Collection"
+ ],
+ "title_size": 88,
+ "sub1": "CRAWLERS  |  PARSERS  |  BROWSERS",
+ "sub2": "EXTRACTION  |  PROXIES  |  AI",
+ "foot": "Open-source scraping software, each checked for license and activity"
+}

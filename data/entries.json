@@ -1,0 +1,338 @@
+[
+  {
+    "repo": "browser-use/browser-use",
+    "category": "ai",
+    "description": "Make websites accessible for AI agents.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "category": "ai",
+    "description": "Turn websites into clean markdown or structured data for language models.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "firecrawl/firecrawl",
+    "category": "ai",
+    "description": "Turn websites into clean data for language models.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jina-ai/reader",
+    "category": "ai",
+    "description": "Convert any URL into LLM-friendly text.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-22"
+  },
+  {
+    "repo": "microsoft/markitdown",
+    "category": "ai",
+    "description": "Convert files and office documents to Markdown.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "ScrapeGraphAI/Scrapegraph-ai",
+    "category": "ai",
+    "description": "Python scraper that uses language models and graph logic.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "unclecode/crawl4ai",
+    "category": "ai",
+    "description": "Open-source web crawler and scraper made for AI use.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "DIYgod/RSSHub",
+    "category": "api",
+    "description": "Generate RSS feeds from almost anything.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "FreshRSS/FreshRSS",
+    "category": "api",
+    "description": "Self-hosted RSS feed aggregator.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "huginn/huginn",
+    "category": "api",
+    "description": "Build agents that watch the web and act on your behalf.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "RSSHub/RSSHub",
+    "category": "api",
+    "description": "Generate RSS feeds from almost anything.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2025-12-30"
+  },
+  {
+    "repo": "browserless/browserless",
+    "category": "browser",
+    "description": "Headless browser service for automation and scraping.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "daijro/camoufox",
+    "category": "browser",
+    "description": "Anti-detect browser for scraping, built on Firefox.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Kaliiiiiiiiii-Vinyzu/patchright",
+    "category": "browser",
+    "description": "Undetected version of Playwright.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "microsoft/playwright",
+    "category": "browser",
+    "description": "Browser automation across Chromium, Firefox and WebKit.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "puppeteer/puppeteer",
+    "category": "browser",
+    "description": "JavaScript API to control Chrome and Firefox.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "SeleniumHQ/selenium",
+    "category": "browser",
+    "description": "Browser automation framework and ecosystem.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ArchiveBox/ArchiveBox",
+    "category": "data",
+    "description": "Self-hosted internet archiving, saves pages in many formats.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "commoncrawl/cc-pyspark",
+    "category": "data",
+    "description": "Process Common Crawl data with Apache Spark and Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-17"
+  },
+  {
+    "repo": "gildas-lormeau/SingleFile",
+    "category": "data",
+    "description": "Browser extension and CLI to save a complete page as one HTML file.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "internetarchive/heritrix3",
+    "category": "data",
+    "description": "Internet Archive's open-source web crawler.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "webrecorder/browsertrix-crawler",
+    "category": "data",
+    "description": "Run a high-fidelity browser-based crawler in a single Docker container.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "webrecorder/pywb",
+    "category": "data",
+    "description": "Python web archiving toolkit for replaying archived sites.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "apify/crawlee",
+    "category": "framework",
+    "description": "Web scraping and browser automation library for Node.js.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "gocolly/colly",
+    "category": "framework",
+    "description": "Fast and elegant scraping framework for Go.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "scrapy/scrapy",
+    "category": "framework",
+    "description": "Fast Python framework for crawling sites and extracting data.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "dgtlmoon/changedetection.io",
+    "category": "monitor",
+    "description": "Watch web pages for changes and get alerts, self-hosted.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "louislam/uptime-kuma",
+    "category": "monitor",
+    "description": "Self-hosted uptime monitoring tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "adbar/trafilatura",
+    "category": "parse",
+    "description": "Python tool to gather text and metadata from the web.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "camelot-dev/camelot",
+    "category": "parse",
+    "description": "Extract tables from PDF files.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "cheeriojs/cheerio",
+    "category": "parse",
+    "description": "Fast jQuery-like HTML parsing for Node.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "codelucas/newspaper",
+    "category": "parse",
+    "description": "News and article extraction and curation in Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-15"
+  },
+  {
+    "repo": "jhy/jsoup",
+    "category": "parse",
+    "description": "Java HTML parser with a jQuery-like API.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "jsvine/pdfplumber",
+    "category": "parse",
+    "description": "Extract text and tables from PDFs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "lxml/lxml",
+    "category": "parse",
+    "description": "Python bindings for libxml2 and libxslt.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-11"
+  },
+  {
+    "repo": "mozilla/readability",
+    "category": "parse",
+    "description": "Standalone version of the Firefox Reader View library.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-04"
+  },
+  {
+    "repo": "scrapy/parsel",
+    "category": "parse",
+    "description": "Extract data from HTML and XML with XPath and CSS selectors.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "bogdanfinn/tls-client",
+    "category": "proxy",
+    "description": "Go HTTP client with browser TLS fingerprints.",
+    "license": "BSD-4-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-04"
+  },
+  {
+    "repo": "encode/httpx",
+    "category": "proxy",
+    "description": "Fully featured HTTP client for Python.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-02"
+  },
+  {
+    "repo": "jhao104/proxy_pool",
+    "category": "proxy",
+    "description": "Python crawler proxy IP pool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-15"
+  },
+  {
+    "repo": "lexiforest/curl_cffi",
+    "category": "proxy",
+    "description": "Python binding for curl-impersonate, with browser TLS fingerprints.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "psf/requests",
+    "category": "proxy",
+    "description": "Simple HTTP library for Python.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-28"
+  }
+]
