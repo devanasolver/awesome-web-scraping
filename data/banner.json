@@ -35,10 +35,10 @@
   ]
  ],
  "title": [
-  "Web Scraping and Data ",
-  "Collection"
+  "Web Scraping and",
+  "Data Collection"
  ],
- "title_size": 88,
+ "title_size": 68,
  "sub1": "CRAWLERS  |  PARSERS  |  BROWSERS",
  "sub2": "EXTRACTION  |  PROXIES  |  AI",
  "foot": "Open-source scraping software, each checked for license and activity"
